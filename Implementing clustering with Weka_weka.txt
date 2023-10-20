@@ -1,0 +1,42 @@
+Ckustering in weka
+Step 1
+Open explorer in weka 
+
+Step 2
+Choose iris data set file 
+
+Step 3
+Choose Cluster 
+
+Step 4
+Click on Choose (Under Clusterer section)
+
+Step 5
+Under clusterers (SimpleKmeans)
+
+Step 6
+After this right click (with mouse) on SimpleKmeans then there will be a pop up box
+
+Step 7 (Changes to be made)
+under displayStdDevs make it (True)
+
+Step 8 
+under numCkusters make it (3)
+
+Step 9
+Under (Cluster mode) Choose (USe training set)
+also tick mark on Store Clusters of  visulization
+
+Step 10
+Click on ignore attributed
+Click on class(Click on Select)
+Click Start
+
+Step 11
+Noe under Cluster mode shift to Classes of clusters evaluiation
+
+Step 12
+there would be 2 outputs (Right click on latest one)
+
+Step 13
+Cick on visualize cluster assigement
