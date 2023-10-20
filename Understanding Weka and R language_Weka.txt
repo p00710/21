@@ -1,0 +1,53 @@
+FOR CSV VIEW
+
+step 1
+install weka from https://sourceforge.net/projects/weka/ or any where else 
+
+step 2 
+Download iris.csv 
+
+step 3
+After installing weka, Click on Explorer
+
+step 4
+in Preprocess click on (openfile..)
+
+step 5 
+select path for iris.csv 
+
+step 6
+after selecting the path change file types from (arff to csv)
+
+step 7
+click on iris file 
+
+step 8
+after that you can select the attributes on your own 
+
+step 9
+On right side there is a class panel and click on visualise all 
+
+
+
+FOR ARFF VIEW 
+
+step 1
+Open weak tool 
+
+step 2
+in weka GUI click on Tools Arffviewer,Click on (Open) 
+
+step 3 
+Open iris.arff file from data folder of weka (C:\Program Files\Weka-3-8-6)
+
+FOR visualization 
+step 1
+Open weak tool 
+
+step 2
+in weka GUI click on Tools Visualization,Click on (Plot)
+
+step 3 
+Open iris.arff file from data folder of weka (C:\Program Files\Weka-3-8-6)
+
+

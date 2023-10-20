@@ -1,0 +1,55 @@
+Step 1
+Start Weka Explorer and go to the Preprocess tab.
+
+Step2
+Now select the Open file tab and select the weather.nominal.arff. from (C:\Program Files\Weka-3-8-6\data)
+
+Step3
+Now select the Classify tab and choose Naive bayes classifier.
+
+Step4
+Click on More Options button and set options in classifier evaluation.
+
+Step5
+Select Use Training Set option.
+
+Step 6
+Click on start 
+
+HOW TO CREATE A TESTING DATA
+
+Step 1
+Click on tool option in menu tab and select ArffViewer.
+
+Step 2
+Now select the Open file tab and select the weather.nominal.arff. from (C:\Program Files\Weka-3-8-6\data)
+
+Step 3
+Delete the column by selecting them and only spare one column 
+
+Step 4
+Save that file as test.arff at desktop(anywhere)
+
+Step 5
+Start Weka Explorer and go to the Preprocess tab.
+
+Step 6
+Now select the Open file tab and select the weather.nominal.arff. from (C:\Program Files\Weka-3-8-6\data)
+
+Step 7
+Now select the Classify tab and choose Naive bayes classifier.
+
+Step 8
+Click on More Options button and set options in classifier evaluation.
+
+Step 9 
+Select Suppiled test set option.
+
+Step 10 
+select test.arff(which was saved previously)
+
+Step 11
+Click on Start
+
+
+

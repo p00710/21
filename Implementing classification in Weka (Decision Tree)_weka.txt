@@ -1,0 +1,48 @@
+For weka
+
+Step 1
+open weka explorer
+
+Step 2
+In preprocess,Click on open file
+
+Step 3
+select path for iris.csv, which will be in  (C:\Program Files\Weka-3-8-6\data)
+
+Step 4
+Click on Classify next to Preprocess
+
+Step 5
+Click on choose
+
+Step 6
+click on trees, click on J48,After click close if visible
+
+Step 7
+Once you can see J48 in choose column, Left click (with mouse)
+
+Step 8
+Click on more
+
+Step 9
+You have to change option of saveInstanceData to (True), Click OK
+
+Step 10
+Under, Test options, Click on Percentage split
+
+Step 11
+Click on More Options..
+
+Step 12
+in Output predictions Click (Choose), Under prediction Select (Plaintext), Click OK
+
+Step 13
+Click on Start
+
+Step 14
+Under result list click right on treesJ48
+
+Step 15 
+Select visulize tree
+
+
